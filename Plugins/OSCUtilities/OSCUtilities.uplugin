@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "Alpha 0.1",
+	"FriendlyName": "OSCUtilities",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Marco Secchi",
+	"CreatedByURL": "http://naba.it",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OSCUtilities",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OSC",
+			"Enabled": true,
+			"LoadingPhase": "Default"
+		}
+	]
+}
